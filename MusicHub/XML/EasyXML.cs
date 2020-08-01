@@ -1,10 +1,10 @@
-﻿using System.IO;
-using System.Text;
-using System.Xml.Serialization;
-
-namespace CarDealer.XMLHelper
+﻿namespace MusicHub.XML
 {
-    public static class XMLConverter
+    using System.IO;
+    using System.Text;
+    using System.Xml.Serialization;
+
+    public class EasyXML
     {
         public static string Serialize<T>(
             T dataTransferObjects,
