@@ -1,22 +1,23 @@
 ﻿<Properties StartupConfiguration="{31E92BC3-B827-455F-AD38-0E786854E922}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="MusicHub/DataProcessor/Deserializer.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MusicHub/DataProcessor/Serializer.cs">
     <Files>
-      <File FileName="MusicHub/StartUp.cs" Line="19" Column="62" />
+      <File FileName="MusicHub/StartUp.cs" Line="24" Column="69" />
       <File FileName="MusicHub/DataProcessor/Deserializer.cs" Line="125" Column="1" />
-      <File FileName="MusicHub/Data/Models/Writer.cs" Line="15" Column="1" />
-      <File FileName="MusicHub/DataProcessor/ImportDtos/ImportSongsDto.cs" Line="1" Column="1" />
-      <File FileName="MusicHub/DataProcessor/ImportDtos/ImportPerformerDto.cs" Line="1" Column="1" />
-      <File FileName="MusicHub/DataProcessor/Serializer.cs" Line="1" Column="1" />
+      <File FileName="MusicHub/DataProcessor/Serializer.cs" Line="28" Column="47" />
+      <File FileName="MusicHub/DataProcessor/ExportDto/ExportAlbumsDto.cs" Line="16" Column="34" />
+      <File FileName="MusicHub/DataProcessor/ExportDto/ExportSongsAboveDurationDto.cs" Line="5" Column="19" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="MusicHub" expanded="True">
             <Node name="MusicHub" expanded="True">
-              <Node name="Data" expanded="True" />
+              <Node name="Data" expanded="True">
+                <Node name="Models" expanded="True" />
+              </Node>
               <Node name="DataProcessor" expanded="True">
-                <Node name="ImportDtos" expanded="True" />
-                <Node name="Deserializer.cs" selected="True" />
+                <Node name="ExportDto" expanded="True" />
+                <Node name="Serializer.cs" selected="True" />
               </Node>
               <Node name="Datasets" expanded="True" />
               <Node name="ExportResults" expanded="True" />

@@ -15,5 +15,6 @@
         <Folder Include="Data\Models\Enums\" />
         <Folder Include="ImportResults\" />
         <Folder Include="XML\" />
+        <Folder Include="DataProcessor\ExportDto\" />
     </ItemGroup>
 </Project>
